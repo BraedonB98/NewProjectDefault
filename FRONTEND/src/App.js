@@ -1,6 +1,6 @@
-//*Schedule Bell
+//*Project-Name
 //Developers: Braedon Bellamy
-//Allows for easy scheduling of employees at companies without resources for more professional products.
+//Description: Default project to allow for easier development of future projects.
 
 //*---Imports---*//
 //Frameworks-Libraries
